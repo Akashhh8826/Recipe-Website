@@ -14,6 +14,7 @@
 
 body{
     background-color: beige;
+    overflow-x: hidden;
 }
 
 header{
@@ -31,8 +32,8 @@ nav{
 
 #navlist{
     list-style: none;
-    margin-left: 15px;
-    margin-right: 15px;
+    margin-left: 1.5%;
+    margin-right: 2%;
     padding: 10px;
     font-size: 2.5rem;
     display: flex;
@@ -109,7 +110,7 @@ a{
 }
 
 .rightbox:hover{
-    transform: scale(1.03);
+    transform: scale(1.02);
 }
 
 .rightbox{

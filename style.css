@@ -116,7 +116,6 @@ a{
 .rightbox{
     position: relative;
     transition: all 0.3s linear 0s;
-    
 }
 
 .rightbox .overlay{

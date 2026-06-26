@@ -59,7 +59,8 @@ Recipe-Website/
 
 ---
 
-<img src="images/Screenshot.png" width="600">
+<img src="images/Screenshot1.png" alt="Project screenshot" width="600">
+<img src="images/Screenshot2.png" alt="Project screenshot" width="600">
 
 ---
 

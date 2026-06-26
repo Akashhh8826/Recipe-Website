@@ -59,6 +59,10 @@ Recipe-Website/
 
 ---
 
+<img src="../sample image" alt="screenshot">
+
+---
+
 ## 🔧 Installation & Usage
 
 1. Clone the repository:

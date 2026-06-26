@@ -94,6 +94,7 @@ a{
     border-radius: 40px;
     transition: transform 0.4s linear 0s;
     box-shadow: rgba(24, 22, 22, 0.563) 3px 3px 20px
+    /* box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5); */
 }
 
 .leftbox p{

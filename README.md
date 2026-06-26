@@ -61,8 +61,8 @@ Recipe-Website/
 
 <table>
   <tr>
-    <td><img src="images/Screenshot2.png" alt="Project screenshot" width="400"></td>
     <td><img src="images/Screenshot1.png" alt="Project screenshot" width="400"></td>
+    <td><img src="images/Screenshot2.png" alt="Project screenshot" width="400"></td>
   </tr>
 </table>
 

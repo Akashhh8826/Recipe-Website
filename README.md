@@ -59,10 +59,9 @@ Recipe-Website/
 
 ---
 
-<table>
+<table cellspacing="10">
   <tr>
     <td><img src="images/Screenshot1.png" alt="Project screenshot" width="400"></td>
-    <td width="20"></td>
     <td><img src="images/Screenshot2.png" alt="Project screenshot" width="400"></td>
   </tr>
 </table>

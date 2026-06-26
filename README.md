@@ -59,10 +59,10 @@ Recipe-Website/
 
 ---
 
-<table cellspacing="10">
+<table cellpadding="15">
   <tr>
-    <td><img src="images/Screenshot1.png" alt="Project screenshot" width="400"></td>
-    <td><img src="images/Screenshot2.png" alt="Project screenshot" width="400"></td>
+    <td><img src="images/Screenshot1.png" alt="Project screenshot" width="600"></td>
+    <td><img src="images/Screenshot2.png" alt="Project screenshot" width="600"></td>
   </tr>
 </table>
 

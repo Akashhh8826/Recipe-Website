@@ -59,7 +59,7 @@ Recipe-Website/
 
 ---
 
-<img src="../sample image" alt="screenshot">
+<img src="/sample image" alt="screenshot">
 
 ---
 

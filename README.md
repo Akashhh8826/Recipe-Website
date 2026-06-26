@@ -59,10 +59,10 @@ Recipe-Website/
 
 ---
 
-<table cellpadding="15">
+<table>
   <tr>
-    <td><img src="images/Screenshot1.png" alt="Project screenshot" width="600"></td>
-    <td><img src="images/Screenshot2.png" alt="Project screenshot" width="600"></td>
+    <td style="padding: 10px;"><img src="images/Screenshot1.png" alt="Project screenshot" width="600" height="500"></td>
+    <td style="padding: 10px;"><img src="images/Screenshot2.png" alt="Project screenshot" width="600" height="500"></td>
   </tr>
 </table>
 

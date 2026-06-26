@@ -41,7 +41,7 @@ Recipe-Website/
 │   ├── gulab-jamun.jpg
 │   ├── raj-bhog.jpg
 │   ├── rasmalai.jpg
-│   └── shahi-tukda.jpg
+│   └── shahi-tukda.jpg   
 │
 └── README.md
 ```
